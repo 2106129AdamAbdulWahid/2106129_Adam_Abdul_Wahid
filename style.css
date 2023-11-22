@@ -1,0 +1,73 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    
+}
+
+
+form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.kotak {
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgb(222, 202, 135);
+    border: 1 solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /*horizontal*/
+    align-items: center;
+    height: 100vh;
+    color: chocolate;
+    
+}
+
+
+
+input {
+    display: block;
+}
+
+.from-input {
+    background-color: bisque;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+}
+
+#btn-kirim {
+    background-color: antiquewhite;
+    color: chocolate;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#ram {
+    background-color: antiquewhite;
+    color: chocolate;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#ser {
+    background-color: antiquewhite;
+    color: chocolate;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
